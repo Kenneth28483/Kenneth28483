@@ -1,5 +1,3 @@
-<!-- Banner -->
-![Banner](https://i.imgur.com/EYVjE4Y.png) <!-- Replace this with your actual banner URL once uploaded -->
 
 <h1 align="center">⚡ Kenneth | Plugin Developer</h1>
 
