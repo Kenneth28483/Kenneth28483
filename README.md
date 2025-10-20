@@ -1,16 +1,45 @@
-## Hi there 👋
+<!-- Profile Banner -->
+![Banner](https://i.imgur.com/EYVjE4Y.png)
 
-<!--
-**Kenneth28483/Kenneth28483** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">👋 Hey, I'm Kenneth</h1>
+<h3 align="center">💻 Java Developer | 🧱 Minecraft Plugin Creator | 🤖 Bot Developer</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 About Me
+I'm a passionate developer who loves building **Minecraft plugins**, **Discord bots**, and **automation tools** that enhance gameplay and server performance.  
+I focus on **clean code**, **optimization**, and creating systems that make communities thrive.
+
+---
+
+### ⚙️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,idea,gradle,maven,git,github,discord,bots" />
+</p>
+
+---
+
+### 🪄 What I Do
+- 🧱 Custom **Minecraft Plugins** (SMP features, admin tools, gameplay mechanics)  
+- 🤖 **Discord Bots** (utility, moderation, automation)  
+- ⚙️ **Backend Optimization** & performance tweaks  
+
+---
+
+### 🚀 Goals
+> Keep innovating in the Minecraft dev world — making plugins faster, smarter, and more fun.  
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight" />
+</p>
+
+---
+
+### 🌐 Connect
+💬 I love collaborating and sharing ideas — check out my projects and feel free to reach out!  
+
+---
