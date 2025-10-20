@@ -59,20 +59,4 @@ I love creating gameplay systems that blend creativity, challenge, and balance �
 
 ---
 
-### 🚀 Goals
-> Keep innovating in the Minecraft dev world — making plugins faster, smarter, and more fun.  
 
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kenneth28483&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kenneth28483&theme=tokyonight" />
-</p>
-
----
-
-### 🌐 Connect
-💬 I love collaborating and sharing ideas — check out my projects and feel free to reach out!  
-
----
