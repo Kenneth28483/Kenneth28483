@@ -33,7 +33,7 @@ I focus on **clean code**, **optimization**, and creating systems that make comm
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kenneth28483&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kenneth28483&theme=tokyonight" />
 </p>
 
